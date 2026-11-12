@@ -6,7 +6,7 @@
 - Project link: [https://github.com/u-109](https://github.com/u-109/G2_miniproject)
 
 ## 2. Target Learners
-Who is this app designed for? (한국 학습자 기준으로 정보를 바꿀 것: 예) 중1, 고2)
+고2
 
 ## 3. Learning Goal
 What should learners practice or learn?
